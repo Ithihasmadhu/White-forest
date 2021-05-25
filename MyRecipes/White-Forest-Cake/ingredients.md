@@ -1,4 +1,4 @@
-######For The Cake Ingredients######
+###### For The Cake Ingredients ######
 
 All purpose flour – 2 ½ cup
 Baking powder – 2 tsp
@@ -10,7 +10,7 @@ Milk – 1 ½ cup (at room temperature)
 Vanilla essence – 1 tsp
 
 
-######For the filling and frosting Ingredients######
+###### For the filling and frosting Ingredients ######
 
 Whipping cream – 2 cup (chilled)
 Powdered sugar – 6 tbsp (more or less according to taste)
